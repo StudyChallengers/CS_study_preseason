@@ -190,4 +190,4 @@ OT로 진행했던 내용은 레포지토리에 업로드 됩니다.<br>
 
 # 🌟 TIL 저장소
 
-https://www.notion.so/76d20aeb41ae4f83b9d006f6d325613a?v=ac34a6821da04896af40aefe0f9164aa&pvs=4
+https://pine-blue-7d4.notion.site/76d20aeb41ae4f83b9d006f6d325613a?v=ac34a6821da04896af40aefe0f9164aa
